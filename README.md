@@ -1,2 +1,2 @@
-# bulletproof-collection
- An alternative to Javascript Maps with tons of useful functions and features.
+# Bulletproof Collection
+Or "BpCollection" for short is an alternative to Javascript Maps with tons of useful functions and features.
